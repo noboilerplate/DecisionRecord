@@ -18,6 +18,8 @@ Eligible employees can choose to work from home up to three days per week, while
 
 The implementation of this policy will be reviewed and revisited regularly to ensure that it continues to benefit both the employees and the company.
 
+We will continue to maintian a much smaller office, for those employees and times where in-person, or outside-home works best.
+
 ## Reasoning
 
 The decision to continue allowing employees to work from home is based on several factors, including employee work-life balance, greater flexibility and freedom, improved productivity, and less exposure to the risk of infection. By implementing a flexible work model, the company can attract and retain top talent while also providing a positive company culture.
